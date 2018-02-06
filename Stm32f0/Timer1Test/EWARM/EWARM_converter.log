@@ -1,0 +1,57 @@
+Project: EWARM
+Converter: IARProjectParser
+Date: 20180130
+
+Project needs GCC compatible startup code and linker script
+Timer1Test: FPU set to default FPU for device: None.
+Timer1Test: FPU set to default FPU for device: None.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.
+: ATTENTION: Failed to determine FPU core for the device: null, MCU information uncertain.

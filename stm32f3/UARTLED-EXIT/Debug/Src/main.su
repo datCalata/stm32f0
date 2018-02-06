@@ -1,0 +1,7 @@
+main.c:138:9:get_option	8	static
+main.c:146:6:print_menu	8	static
+main.c:157:6:operaLed	8	static
+main.c:177:6:HAL_UART_RxCpltCallback	0	static
+main.c:187:6:SystemClock_Config	72	static
+main.c:89:5:main	48	static
+main.c:289:6:_Error_Handler	0	static

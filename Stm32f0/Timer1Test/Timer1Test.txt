@@ -1,0 +1,49 @@
+Configuration	Timer1Test
+STM32CubeMX 	4.23.0
+Date	01/29/2018
+MCU	STM32F051R8Tx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+SYS	Serial_Wire	SYS_SWCLK	PA14
+SYS	Serial_Wire	SYS_SWDIO	PA13
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+TIM1	Internal Clock	TIM1_VS_ClockSourceINT	VP_TIM1_VS_ClockSourceINT
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+14	PA0	GPIO_EXTI0	B1 [Blue PushButton]
+39	PC8	GPIO_Output	LD4 [Blue Led]
+40	PC9	GPIO_Output	LD3 [Green Led]
+46	PA13	SYS_SWDIO	
+49	PA14	SYS_SWCLK	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : Timer1Test
+Project Folder : C:\Users\jcala\Desktop\Stm32\Timer1Test
+Toolchain / IDE : EWARM
+Firmware Package Name and Version : STM32Cube FW_F0 V1.9.0
+
+
+Code Generation Settings : 
+STM32Cube Firmware Library Package : Copy all used libraries into the project folder
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : Balanced Size/Speed
+
+
+
+
+
+
